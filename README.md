@@ -1,2 +1,1 @@
-# stm32f103_no_init
-stm32f103_no_init
+STM32实现MCU软件复位后，变量值不变。
